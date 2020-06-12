@@ -35,6 +35,17 @@
   margin: 50px !important;
 }
 
+#speakers img {
+  border-radius: 50%;
+  max-width: 300px;
+}
+
+#speakers .card {
+  border: none;
+  align-items: center;
+  text-align: center;
+}
+
 #conviertete-en-orador {
   margin: 50px !important;
 }
